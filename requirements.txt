@@ -1,8 +1,8 @@
-tensorflow>=2.21.0
-keras>=3.12.3
-streamlit>=1.59.1
-plotly>=6.9.0
-pandas>=2.3.3
-numpy>=2.2.6
-pillow>=12.3.0
-opencv-python>=5.0.0
+tensorflow
+keras
+streamlit
+plotly
+pandas
+numpy
+pillow
+opencv-python
